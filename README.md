@@ -89,8 +89,4 @@ Read More: https://example.com/link
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] file for details.
-
----
-
-This `README.md` provides a comprehensive guide for anyone to use your script. It explains the purpose, setup, and customization options, making it easy for others to contribute or use the script in their projects.
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details.

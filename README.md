@@ -1,6 +1,3 @@
-Certainly! Below is a clear and concise **README description** for your GitHub repository. This description explains how to use the script, its features, and how to set it up.
-
----
 
 # Mastodon RSS Feed Poster
 
